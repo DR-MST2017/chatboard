@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23193144651",
+    "project_id": "chatboard-172bf",
+    "storage_bucket": "chatboard-172bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23193144651:android:47971b3567c538fa546cce",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxRP69o9RT7P_o3ovC0Ow9BP3IJ2YFIF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
